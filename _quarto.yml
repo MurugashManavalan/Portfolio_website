@@ -26,6 +26,7 @@ website:
       - Projects.qmd
       - Publications.qmd
       - Blog.qmd
+      - CV.qmd
 
       # - icon: mastodon
       #   href: https://joinmastodon.org
