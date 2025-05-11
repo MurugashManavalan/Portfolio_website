@@ -5,10 +5,10 @@
       xmlns:dc="http://purl.org/dc/elements/1.1/" 
       version="2.0">
 <channel>
-<title>My website</title>
+<title>Murugash</title>
 <link>https://pakillo.github.io/academic-website-template-Quarto/Blog.html</link>
 <atom:link href="https://pakillo.github.io/academic-website-template-Quarto/Blog.xml" rel="self" type="application/rss+xml"/>
-<description>I am a scientist</description>
+<description>PhD Scholar in Charles University</description>
 <generator>quarto-1.7.30</generator>
 <lastBuildDate>Mon, 21 Oct 2024 00:00:00 GMT</lastBuildDate>
 <item>
