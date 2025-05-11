@@ -1,13 +1,13 @@
 project:
   type: website
-  # output-dir: docs
+  output-dir: docs
 
 
 website:
   title: "Murugash"
   description: "PhD Scholar in Charles University"
-  site-url: https://pakillo.github.io/academic-website-template-Quarto
-  repo-url: https://github.com/Pakillo/academic-website-template-Quarto
+  site-url: https://murugashmanavalan.github.io/Portfolio_website
+  repo-url: https://github.com/MurugashManavalan/Portfolio_website
   # favicon: logo.png
   twitter-card: true
   #   creator: "@handle"
