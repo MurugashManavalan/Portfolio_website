@@ -2,7 +2,7 @@
 title: "Murugash Manavalan"
 about:
   template: trestles
-  image: avatar.jpg
+  image: Profile Picture.jpeg
   links:
     - icon: envelope
       # text: email
