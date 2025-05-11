@@ -23,9 +23,6 @@ website:
     right:
       - href: index.qmd
         text: Home
-      - Projects.qmd
-      - Publications.qmd
-      - Blog.qmd
       - CV.qmd
 
       # - icon: mastodon
