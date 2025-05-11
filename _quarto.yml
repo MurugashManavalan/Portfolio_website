@@ -4,8 +4,8 @@ project:
 
 
 website:
-  title: "My website"
-  description: "I am a scientist"
+  title: "Murugash"
+  description: "PhD Scholar in Charles University"
   site-url: https://pakillo.github.io/academic-website-template-Quarto
   repo-url: https://github.com/Pakillo/academic-website-template-Quarto
   # favicon: logo.png
