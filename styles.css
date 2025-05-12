@@ -1,6 +1,6 @@
 .quarto-grid-item .listing-thumbnail img {
-  width: 100%;
-  height: 250px; /* Adjust this to control height */
+  width: 4032px;
+  height: 3024px; /* Adjust this to control height */
   object-fit: cover;
   border-radius: 8px; /* Optional: smooth corners */
 }
