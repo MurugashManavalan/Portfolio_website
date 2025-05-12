@@ -1,5 +1,19 @@
 [
   {
+    "listing": "/Blog.html",
+    "items": [
+      "/posts/another-post.html",
+      "/posts/new-post.html"
+    ]
+  },
+  {
+    "listing": "/Projects.html",
+    "items": [
+      "/projects/computational-ecology.html",
+      "/projects/contemplative-ecology.html"
+    ]
+  },
+  {
     "listing": "/Nature.html",
     "items": [
       "/qmds/Nature/White-Bellied_Drongo.html",
@@ -21,22 +35,7 @@
       "/qmds/Nature/Cassia_Fistula.html",
       "/qmds/Nature/Hymenocallis_Littoralis_(2).html",
       "/qmds/Nature/Hymenocallis_Littoralis.html",
-      "/qmds/Nature/Unnamed_(111).html",
-      "/qmds/Nature/Catharanthus_Roseus.html"
-    ]
-  },
-  {
-    "listing": "/Projects.html",
-    "items": [
-      "/projects/computational-ecology.html",
-      "/projects/contemplative-ecology.html"
-    ]
-  },
-  {
-    "listing": "/Blog.html",
-    "items": [
-      "/posts/another-post.html",
-      "/posts/new-post.html"
+      "/qmds/Nature/Unnamed_(111).html"
     ]
   }
 ]
