@@ -1,0 +1,13 @@
+---
+title: Taraxacum (2)
+author: Murugash
+image: ../../Photography Portfolio/Nature/Taraxacum (2).png
+description: A nature photograph by Murugash.
+categories: [Nature]
+date: 2025-05-12 08:40:58
+format:
+  html:
+    page-layout: full
+---
+
+![](../../Photography Portfolio/Nature/Taraxacum (2).png)

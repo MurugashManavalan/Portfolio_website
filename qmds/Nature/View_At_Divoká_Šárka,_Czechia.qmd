@@ -1,0 +1,13 @@
+---
+title: View At Divoká Šárka, Czechia
+author: Murugash
+image: ../../Photography Portfolio/Nature/View at Divoká Šárka, Czechia.jpg
+description: A nature photograph by Murugash.
+categories: [Nature]
+date: 2025-05-12 08:40:09
+format:
+  html:
+    page-layout: full
+---
+
+![](../../Photography Portfolio/Nature/View at Divoká Šárka, Czechia.jpg)

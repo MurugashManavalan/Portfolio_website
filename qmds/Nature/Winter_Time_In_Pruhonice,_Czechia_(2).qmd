@@ -1,0 +1,13 @@
+---
+title: Winter Time In Pruhonice, Czechia (2)
+author: Murugash
+image: ../../Photography Portfolio/Nature/Winter Time in Pruhonice, Czechia (2).jpg
+description: A nature photograph by Murugash.
+categories: [Nature]
+date: 2025-05-12 08:39:47
+format:
+  html:
+    page-layout: full
+---
+
+![](../../Photography Portfolio/Nature/Winter Time in Pruhonice, Czechia (2).jpg)

@@ -1,0 +1,13 @@
+---
+title: Sunset View In Shimla, India
+author: Murugash
+image: ../../Photography Portfolio/Nature/Sunset View in Shimla, India.jpg
+description: A nature photograph by Murugash.
+categories: [Nature]
+date: 2025-05-12 08:39:21
+format:
+  html:
+    page-layout: full
+---
+
+![](../../Photography Portfolio/Nature/Sunset View in Shimla, India.jpg)

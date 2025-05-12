@@ -1,0 +1,13 @@
+---
+title: Cliffside In Goa, India
+author: Murugash
+image: ../../Photography Portfolio/Nature/Cliffside in Goa, India.jpg
+description: A nature photograph by Murugash.
+categories: [Nature]
+date: 2025-05-12 08:40:32
+format:
+  html:
+    page-layout: full
+---
+
+![](../../Photography Portfolio/Nature/Cliffside in Goa, India.jpg)

@@ -23,7 +23,12 @@ website:
     right:
       - href: index.qmd
         text: Home
-      - CV.qmd
+      - href: CV.qmd
+        text: CV
+      - href: Nature.qmd
+        text: Photography
+      - icon: rss
+        href: index.xml
 
       # - icon: mastodon
       #   href: https://joinmastodon.org

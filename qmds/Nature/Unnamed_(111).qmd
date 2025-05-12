@@ -1,0 +1,13 @@
+---
+title: Unnamed (111)
+author: Murugash
+image: ../../Photography Portfolio/Nature/Unnamed (111).png
+description: A nature photograph by Murugash.
+categories: [Nature]
+date: 2025-05-11 21:01:53
+format:
+  html:
+    page-layout: full
+---
+
+![](../../Photography Portfolio/Nature/Unnamed (111).png)

@@ -1,0 +1,20 @@
+---
+title: "Nature Photography by Murugash"
+listing:
+  contents: qmds/Nature
+  type: grid
+  image-height: "100%"
+  grid-columns: 4
+  page-size: 20
+  grid-item-border: false
+  fields: [image]
+  sort-ui: [date, categories]
+  categories: true
+  sort:
+    - "date desc"
+format:
+  html:
+    page-layout: full
+---
+
+A collection of nature images captured by Murugash Manavalan.

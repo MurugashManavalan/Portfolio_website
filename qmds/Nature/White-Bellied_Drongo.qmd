@@ -1,0 +1,13 @@
+---
+title: White-Bellied Drongo
+author: Murugash
+image: ../../Photography Portfolio/Nature/White-bellied Drongo.png
+description: A nature photograph by Murugash.
+categories: [Nature]
+date: 2025-05-12 08:48:07
+format:
+  html:
+    page-layout: full
+---
+
+![](../../Photography Portfolio/Nature/White-bellied Drongo.png)

@@ -1,0 +1,13 @@
+---
+title: Lemon Pansy Butterfly
+author: Murugash
+image: ../../Photography Portfolio/Nature/Lemon pansy Butterfly.png
+description: A nature photograph by Murugash.
+categories: [Nature]
+date: 2025-05-12 08:41:02
+format:
+  html:
+    page-layout: full
+---
+
+![](../../Photography Portfolio/Nature/Lemon pansy Butterfly.png)

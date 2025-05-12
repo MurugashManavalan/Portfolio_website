@@ -1,0 +1,13 @@
+---
+title: Carpenter Ant
+author: Murugash
+image: ../../Photography Portfolio/Nature/Carpenter Ant.png
+description: A nature photograph by Murugash.
+categories: [Nature]
+date: 2025-05-12 08:41:12
+format:
+  html:
+    page-layout: full
+---
+
+![](../../Photography Portfolio/Nature/Carpenter Ant.png)

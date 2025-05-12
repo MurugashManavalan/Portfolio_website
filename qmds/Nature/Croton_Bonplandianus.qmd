@@ -1,0 +1,13 @@
+---
+title: Croton Bonplandianus
+author: Murugash
+image: ../../Photography Portfolio/Nature/Croton bonplandianus.png
+description: A nature photograph by Murugash.
+categories: [Nature]
+date: 2025-05-11 21:04:31
+format:
+  html:
+    page-layout: full
+---
+
+![](../../Photography Portfolio/Nature/Croton bonplandianus.png)

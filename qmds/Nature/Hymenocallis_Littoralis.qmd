@@ -1,0 +1,13 @@
+---
+title: Hymenocallis Littoralis
+author: Murugash
+image: ../../Photography Portfolio/Nature/Hymenocallis littoralis.png
+description: A nature photograph by Murugash.
+categories: [Nature]
+date: 2025-05-11 21:02:31
+format:
+  html:
+    page-layout: full
+---
+
+![](../../Photography Portfolio/Nature/Hymenocallis littoralis.png)

@@ -1,0 +1,13 @@
+---
+title: Cassia Fistula
+author: Murugash
+image: ../../Photography Portfolio/Nature/Cassia fistula.png
+description: A nature photograph by Murugash.
+categories: [Nature]
+date: 2025-05-11 21:03:26
+format:
+  html:
+    page-layout: full
+---
+
+![](../../Photography Portfolio/Nature/Cassia fistula.png)
