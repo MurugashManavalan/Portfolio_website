@@ -27,6 +27,7 @@ website:
         text: CV
       - href: Nature.qmd
         text: Photography
+      - Projects.qmd
 
       # - icon: mastodon
       #   href: https://joinmastodon.org
