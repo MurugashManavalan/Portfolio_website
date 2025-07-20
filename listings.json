@@ -1,5 +1,12 @@
 [
   {
+    "listing": "/Blog.html",
+    "items": [
+      "/posts/another-post.html",
+      "/posts/new-post.html"
+    ]
+  },
+  {
     "listing": "/Nature.html",
     "items": [
       "/qmds/Nature/White-Bellied_Drongo.html",
@@ -29,13 +36,6 @@
     "items": [
       "/projects/Effect of Drought and Soil Fertility on Flowers.html",
       "/projects/Floral Economics under Global Change.html"
-    ]
-  },
-  {
-    "listing": "/Blog.html",
-    "items": [
-      "/posts/another-post.html",
-      "/posts/new-post.html"
     ]
   }
 ]
