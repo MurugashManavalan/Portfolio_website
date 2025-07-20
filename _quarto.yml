@@ -25,7 +25,7 @@ website:
         text: Home
       - href: CV.qmd
         text: CV
-      - href: Nature.qmd
+      - href: Photography.qmd
         text: Photography
       - Projects.qmd
 
