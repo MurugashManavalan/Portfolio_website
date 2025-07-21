@@ -7,19 +7,6 @@ lightbox: TRUE
 
 A collection of nature images which were captured by me during my travels. Hope to add more pictures relating to architecture and street photography soon!
 
-![](Photography%20Portfolio/Nature/April%20Pink%20Moon.jpg){group="Nature"}
-![](Photography%20Portfolio/Nature/Beach%20Spider%20Lily.jpg){group="Nature"}
-![](Photography%20Portfolio/Nature/Carpenter%20Ant.jpg){group="Nature"}
-![](Photography%20Portfolio/Nature/Catharanthus%20roseus.jpg){group="Nature"}
-![](Photography%20Portfolio/Nature/Clitoria%20ternatea.jpg){group="Nature"}
-![](Photography%20Portfolio/Nature/Coppersmith%20Barbet.jpg){group="Nature"}
-![](Photography%20Portfolio/Nature/Daisy%20in%20Lahaul%20and%20Spiti.jpg){group="Nature"}
-![](Photography%20Portfolio/Nature/Great%20Bougainvillea.jpg){group="Nature"}
-![](Photography%20Portfolio/Nature/Higway%20Scenary%20in%20Lahaul%20and%20Spiti.jpg){group="Nature"}
-![](Photography%20Portfolio/Nature/Indiana%20laburnum.jpg){group="Nature"}
-![](Photography%20Portfolio/Nature/Lemon%20Pansy%20Butterfly.jpg){group="Nature"}
-![](Photography%20Portfolio/Nature/Mountain%20Range%20in%20Lahaul%20and%20Spiti.jpg){group="Nature"}
-![](Photography%20Portfolio/Nature/Paper%20Daisy.jpg){group="Nature"}
-![](Photography%20Portfolio/Nature/Scaly-breasted%20Munia.jpg){group="Nature"}
-![](Photography%20Portfolio/Nature/Scenary%20from%20Central%20Bohemian%20Uplands.jpg){group="Nature"}
-![](Photography%20Portfolio/Nature/Sunset%20in%20Shimla.jpg){group="Nature"}
+::: image-grid
+![](Photography%20Portfolio/Nature/April%20Pink%20Moon.jpg){group="Nature" width="250" height="180"} ![](Photography%20Portfolio/Nature/Beach%20Spider%20Lily.jpg){group="Nature" width="250" height="180"} ![](Photography%20Portfolio/Nature/Carpenter%20Ant.jpg){group="Nature" width="250" height="180"} ![](Photography%20Portfolio/Nature/Catharanthus%20roseus.jpg){group="Nature" width="250" height="180"} ![](Photography%20Portfolio/Nature/Clitoria%20ternatea.jpg){group="Nature" width="250" height="180"} ![](Photography%20Portfolio/Nature/Coppersmith%20Barbet.jpg){group="Nature" width="250" height="180"} ![](Photography%20Portfolio/Nature/Daisy%20in%20Lahaul%20and%20Spiti.jpg){group="Nature" width="250" height="180"} ![](Photography%20Portfolio/Nature/Great%20Bougainvillea.jpg){group="Nature" width="250" height="180"} ![](Photography%20Portfolio/Nature/Higway%20Scenary%20in%20Lahaul%20and%20Spiti.jpg){group="Nature" width="250" height="180"} ![](Photography%20Portfolio/Nature/Indiana%20laburnum.jpg){group="Nature" width="250" height="180"} ![](Photography%20Portfolio/Nature/Lemon%20Pansy%20Butterfly.jpg){group="Nature" width="250" height="180"} ![](Photography%20Portfolio/Nature/Mountain%20Range%20in%20Lahaul%20and%20Spiti.jpg){group="Nature" width="250" height="180"} ![](Photography%20Portfolio/Nature/Paper%20Daisy.jpg){group="Nature" width="250" height="180"} ![](Photography%20Portfolio/Nature/Scaly-breasted%20Munia.jpg){group="Nature" width="250" height="180"} ![](Photography%20Portfolio/Nature/Scenary%20from%20Central%20Bohemian%20Uplands.jpg){group="Nature" width="250" height="180"} ![](Photography%20Portfolio/Nature/Sunset%20in%20Shimla.jpg){group="Nature" width="250" height="180"}
+:::
