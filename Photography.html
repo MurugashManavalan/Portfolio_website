@@ -41,9 +41,6 @@ ul.task-list li input[type="checkbox"] {
 <script src="site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
 <link href="site_libs/bootstrap/bootstrap-47da9c396f872a698630d8d084310ac8.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
-<script src="site_libs/quarto-contrib/glightbox/glightbox.min.js"></script>
-<link href="site_libs/quarto-contrib/glightbox/glightbox.min.css" rel="stylesheet">
-<link href="site_libs/quarto-contrib/glightbox/lightbox.css" rel="stylesheet">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -76,17 +73,11 @@ ul.task-list li input[type="checkbox"] {
 <link rel="stylesheet" href="styles.css">
 <meta property="og:title" content="Photography – Murugash">
 <meta property="og:description" content="PhD Scholar in Charles University">
-<meta property="og:image" content="https://murugashmanavalan.github.io/Portfolio_website/Photography Portfolio/Nature/Catharanthus roseus.png">
+<meta property="og:image" content="https://murugashmanavalan.github.io/Portfolio_website/Photography Portfolio/Nature/April Pink Moon.jpg">
 <meta property="og:site_name" content="Murugash">
-<meta property="og:image:alt" content="Catharanthus roseus">
-<meta property="og:image:height" content="3096">
-<meta property="og:image:width" content="4128">
 <meta name="twitter:title" content="Photography – Murugash">
 <meta name="twitter:description" content="PhD Scholar in Charles University">
-<meta name="twitter:image" content="https://murugashmanavalan.github.io/Portfolio_website/Photography Portfolio/Nature/Catharanthus roseus.png">
-<meta name="twitter:image:alt" content="Catharanthus roseus">
-<meta name="twitter:image-height" content="3096">
-<meta name="twitter:image-width" content="4128">
+<meta name="twitter:image" content="https://murugashmanavalan.github.io/Portfolio_website/Photography Portfolio/Nature/April Pink Moon.jpg">
 <meta name="twitter:card" content="summary_large_image">
 </head>
 
@@ -164,12 +155,7 @@ ul.task-list li input[type="checkbox"] {
 
 
 <p>A collection of nature images which were captured by me during my travels. Hope to add more pictures relating to architecture and street photography soon!</p>
-<div class="quarto-figure quarto-figure-center">
-<figure class="figure">
-<p><a href="Photography Portfolio/Nature/Catharanthus roseus.png" class="lightbox" data-gallery="quarto-lightbox-gallery-1" title="Catharanthus roseus"><img src="Photography Portfolio/Nature/Catharanthus roseus.png" class="img-fluid figure-img" alt="Catharanthus roseus"></a></p>
-<figcaption>Catharanthus roseus</figcaption>
-</figure>
-</div>
+<p>!<img src="Photography Portfolio/Nature/April Pink Moon.jpg" class="img-fluid"></p>
 
 
 
@@ -587,38 +573,6 @@ ul.task-list li input[type="checkbox"] {
 </div>
   </div>
 </footer>
-<script>var lightboxQuarto = GLightbox({"closeEffect":"zoom","descPosition":"bottom","loop":false,"openEffect":"zoom","selector":".lightbox"});
-(function() {
-  let previousOnload = window.onload;
-  window.onload = () => {
-    if (previousOnload) {
-      previousOnload();
-    }
-    lightboxQuarto.on('slide_before_load', (data) => {
-      const { slideIndex, slideNode, slideConfig, player, trigger } = data;
-      const href = trigger.getAttribute('href');
-      if (href !== null) {
-        const imgEl = window.document.querySelector(`a[href="${href}"] img`);
-        if (imgEl !== null) {
-          const srcAttr = imgEl.getAttribute("src");
-          if (srcAttr && srcAttr.startsWith("data:")) {
-            slideConfig.href = srcAttr;
-          }
-        }
-      } 
-    });
-  
-    lightboxQuarto.on('slide_after_load', (data) => {
-      const { slideIndex, slideNode, slideConfig, player, trigger } = data;
-      if (window.Quarto?.typesetMath) {
-        window.Quarto.typesetMath(slideNode);
-      }
-    });
-  
-  };
-  
-})();
-          </script>
 
 
 
