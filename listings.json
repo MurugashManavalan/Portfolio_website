@@ -1,5 +1,12 @@
 [
   {
+    "listing": "/Projects.html",
+    "items": [
+      "/projects/Effect of Drought and Soil Fertility on Flowers.html",
+      "/projects/Floral Economics under Global Change.html"
+    ]
+  },
+  {
     "listing": "/Blog.html",
     "items": [
       "/posts/another-post.html",
@@ -29,13 +36,6 @@
       "/qmds/Nature/Hymenocallis_Littoralis_(2).html",
       "/qmds/Nature/Hymenocallis_Littoralis.html",
       "/qmds/Nature/Unnamed_(111).html"
-    ]
-  },
-  {
-    "listing": "/Projects.html",
-    "items": [
-      "/projects/Effect of Drought and Soil Fertility on Flowers.html",
-      "/projects/Floral Economics under Global Change.html"
     ]
   }
 ]
