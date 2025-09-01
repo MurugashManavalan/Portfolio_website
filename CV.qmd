@@ -26,13 +26,15 @@ editor: visual
 
 ## Conferences
 
--   52^nd^ Annual conference of the Ecological Society of Germany, Austria and Switzerland (GfÖ) hosted by the German Centre for Integrative Biodiversity Research (iDiv) Halle-Jena-Leipzig; Presented a poster entitled “Effects of Changes in Soil Nutrient and Water Availability on Floral Economic Spectrum” under session “Traits and Stability” on 12^th^ & 13^th^ September, 2023.
+-   37^th^ Conference of the **Plant Population Biology Section of the Ecological Society of Germany**, Austria and Switzerland (GfÖ) organized the Faculty of Science of the Charles University and Institute of Botany of the CAS, held from 22^nd^ to 24^th^ May 2025; Presented a paper entitled “Floral Economic Traits show varied Response to Global Change Factors in Long-Term FACE Experiment” and was awarded **Third best Oral Presentation**.
 
--   International Conference on Climate Change Adaptation for Sustainable Biodiversity and Food Security organized by the Department of Zoology and Research Centre, Scott Christian College (Autonomous), Nagercoil, Tamil Nadu, India; Presented a paper entitled “Investigation into the Phenological Patterns of Trees in Socorro Plateau, Goa” on 23rd & 24th June, 2022 and was awarded Best Oral Presentation Award under the subtheme “Biodiversity”.
+-   52^nd^ Annual conference of the **Ecological Society of Germany, Austria and Switzerland (GfÖ)** hosted by the German Centre for Integrative Biodiversity Research (iDiv) Halle-Jena-Leipzig; Presented a poster entitled “Effects of Changes in Soil Nutrient and Water Availability on Floral Economic Spectrum” under session “Traits and Stability” on 12^th^ & 13^th^ September, 2023.
 
--   National Seminar on Innovative Research Approaches in Biological Sciences organized by PG and Research Department of Botany, Jamal Mohamed College, Tiruchirappalli, Tamil Nadu, India and presented a paper entitled “Phenological Studies of Trees in Socorro Plateau, Goa” on 25th & 26th May, 2022.
+-   **International Conference on Climate Change Adaptation for Sustainable Biodiversity and Food Security** organized by the Department of Zoology and Research Centre, Scott Christian College (Autonomous), Nagercoil, Tamil Nadu, India; Presented a paper entitled “Investigation into the Phenological Patterns of Trees in Socorro Plateau, Goa” on 23rd & 24th June, 2022 and was awarded **Best Oral Presentation Award** under the subtheme “Biodiversity”.
 
--   International Conference on Climate Adaptation and Resilience organized by Department of Environmental Sciences, Bishop Heber College, Tiruchirappalli, Tamil Nadu, India and presented a paper entitled “Aphid – Ant Interactions in Different Plant Species” on 22nd & 23rd April, 2022.
+-   **National Seminar on Innovative Research Approaches in Biological Sciences** organized by PG and Research Department of Botany, Jamal Mohamed College, Tiruchirappalli, Tamil Nadu, India and presented a paper entitled “Phenological Studies of Trees in Socorro Plateau, Goa” on 25th & 26th May, 2022.
+
+-   **International Conference on Climate Adaptation and Resilience** organized by Department of Environmental Sciences, Bishop Heber College, Tiruchirappalli, Tamil Nadu, India and presented a paper entitled “Aphid – Ant Interactions in Different Plant Species” on 22nd & 23rd April, 2022.
 
 ## Supervised students
 
@@ -42,9 +44,9 @@ editor: visual
 
 -   Filip Kreuter (Open Science, supervision, finished)
 
--   Marketa Prusova (Bachelors, co-supervision, ongoing)
+-   Marketa Prusova (Bachelors, co-supervision, finished)
 
--   Myrtille Leleu (Masters, supervision, ongoing)
+-   Myrtille Leleu (Masters, supervision, finished)
 
 -   Katerina Gourlay (Open Science, supervision, ongoing)
 
